@@ -1,0 +1,29 @@
+Goal: To create a race with 5 horses and 15 unit and whoever finishes the 15 units first wins
+Input: a random number
+Output: a string value will print showing the horses and their position in the race. 
+
+Please enter a seed value: 700
+
+.........0.....
+..........1....
+............2..
+..............3
+........4......
+
+
+.........0.....
+..........1....
+.............2.
+...............
+........4......
+
+Horse 3 wins!
+
+Steps:
+	1. Ask user enter seed
+	2. Seed the srand function
+	3. Create an array for the 5 horses 
+	4. Have a print function and advance function
+	5. Have 2 functions to run and print the values 
+	6. check if any of the houses won the race
+
