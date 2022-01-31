@@ -27,3 +27,18 @@ Steps:
 	5. Have 2 functions to run and print the values 
 	6. check if any of the houses won the race
 
+
+
+You need an algorithm for each function.  Make sure you know what you want
+to do.  
+
+race function algorithm:
+
+set keepGoing to true
+while keepGoing is true:
+  for each horse:
+    advance the horse (or not)
+    print the lane
+    determine if we have a winner
+    if we do have a winner
+      set keepGoing to false
